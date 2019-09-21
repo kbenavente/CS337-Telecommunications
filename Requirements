@@ -1,11 +1,3 @@
-Add Requirements here. //This Line MUST be deleted before submitting Requirements to the Professor.
-
-From Previous class PowerPoint
-
-1. Power is needed to operate the Antenna. So the Power should be turned on. Up to 300 Watts of power is required.
-2. MRO and ODYSSEY orbiters are required for transmission, as Rover cannot communicate to Earth directly all the time.
-// Cannot be used in current form as it does not abide by Professor's instructions.
-
 The rover shall be able to move its high gain antenna
 The rover shall be to send data from the low gain antenna
 The rover shall be able to receive data from the low gain antenna
