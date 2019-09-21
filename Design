@@ -2,3 +2,5 @@
 //The following are things to keep in mind during the design step that were brought up during the Requirements stage.
 The high gain antenna moves on a two-axis gimbal
 Will need to consider the scheduling of the DSN
+
+https://mars.jpl.nasa.gov/msl/mission/communications/
