@@ -13,7 +13,8 @@ The rover shall be to send data from the high gain antenna
 The rover shall be able to receive data from the high gain antenna
 The rover shall be to send data from the ultra high frequency antenna
 The rover shall be able to receive data from the ultra high frequency antenna
-The ultra high frequency antenna shall be able to communicate with the orbitors
+The ultra high frequency antenna shall be able to communicate with the ODYSSEY orbitor
+The ultra high frequency antenna shall be able to communicate with the MER orbitor
 The high gain antenna shall be able to send data to Earth
 The high gain antenna shall be able to receive data from Earth
 The low gain antenna shall be able to send data to Earth
